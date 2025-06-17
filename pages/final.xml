@@ -1,3 +1,4 @@
-<page id="final" bg_color="black">
+<page id="final" bg_image="gemini_generated_image_nling8nling8nlin.png" bg_music="osts-fear.mp3">
+  <agent
   <agent id="titulo" x="center" y="center" text="Página final" color="white" font-size="24" />
 </page>
