@@ -10,10 +10,10 @@
 
   <agent
     id="next_page_text"
-    text="Primeira Pagina"
+    text=" "
     animation="glitch"
-    y="480"
-    x="640"
-    on_click="goToPage('start')"
+    y="330"
+    x="710"
+    on_click="goToPage('final')"
   />
 </page>
