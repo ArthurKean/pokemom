@@ -1,8 +1,8 @@
-<page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page id="start" bg_image="gemini_generated_image_9xao469xao469xao.png" bg_music="osts-retro-forest.mp3">
   <agent
-    id="teste"
+    id="page1"
     text="A Jornada pelo Pokémon Perdido!"
-    color="white"
+    color="black"
     x="center"
     y="center"
     font-size="60"
